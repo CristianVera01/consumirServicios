@@ -1,0 +1,34 @@
+{
+"user": [
+  {
+    "id": 1,
+    "name": "Cristian Martinez",
+    "username": "cristianvera01",
+    "email": "crismv07@hotmail.com",
+    "image": "https://googleretailtraining.exceedlms.com/assets/student/google/default_avatar-5298a7fcd9a9a0ce0d2b32e9aa826a32cc521cb5249540190792626b75504b39.png"
+  },
+  {
+    "id": 2,
+    "name": "Isabel Mejía",
+    "username": "isabel01",
+    "email": "isabel@hotmail.com",
+    "image": "https://googleretailtraining.exceedlms.com/assets/student/google/default_avatar-5298a7fcd9a9a0ce0d2b32e9aa826a32cc521cb5249540190792626b75504b39.png"
+  },
+  {
+    "id": 3,
+    "name": "Pedro",
+    "username": "pedro01",
+    "email": "pedro@hotmail.com",
+    "image": "https://googleretailtraining.exceedlms.com/assets/student/google/default_avatar-5298a7fcd9a9a0ce0d2b32e9aa826a32cc521cb5249540190792626b75504b39.png"
+  }
+],
+  "posts": [
+    { "id": 1, "title": "¿Por qué adoptar animales?", "body": "pienso que es importante adoptar porque...", "userId": 1},
+    { "id": 2, "title": "¿Qué pienso del calentamiento global?", "body": "Yo opino que el calentamiento global...", "userId": 1},
+    { "id": 3, "title": "¿Cómo crear mi propia empresa?", "body": "Para eso antes, debes saber que...", "userId": 2}
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ]
+}
